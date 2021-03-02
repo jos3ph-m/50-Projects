@@ -74,4 +74,12 @@ body {
   color: #fff;
   border: 0;
   border-radius: 6px;
+  font-family: inherit;
+  padding: 8px 30px;
+  margin: 5px;
+  font-size: 14px;
+}
+
+.btn:active {
+  transform: scale(0.98);
 }
