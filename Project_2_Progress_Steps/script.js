@@ -32,4 +32,6 @@ const update = () => {
       circle.classList.remove('active');
     }
   });
+
+  const actives = document.querySelectorAll('.active');
 };
