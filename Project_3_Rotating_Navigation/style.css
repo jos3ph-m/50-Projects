@@ -48,4 +48,9 @@ body {
   background: transparent;
   border: 0;
   font-size: 26px;
+  color: #fff;
+}
+
+.circle button:focus {
+  outline: none;
 }
