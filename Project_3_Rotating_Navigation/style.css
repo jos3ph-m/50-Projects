@@ -83,3 +83,8 @@ body {
   color: #555;
   font-style: italic;
 }
+
+.content p {
+  color: #333;
+  line-height: 1.5;
+}
